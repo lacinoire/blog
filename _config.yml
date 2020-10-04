@@ -1,0 +1,17 @@
+title: Caro's Blog
+iconURL: assets/blueComputerGirl.png
+
+# for a clean URL
+permalink: :slug
+
+social:
+  twitter: laci_noire
+  github: lacinoire
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+### comments & analytics
+# hyvor_talk_website_id: 14
+# google_analytics: UA-NNNNNNNN-N
