@@ -6,7 +6,7 @@ layout: page
 I was asked to publish some notes I made for a conference & I guess it's nice in general to have a place to post things. Just in case I have something to say 😄🐳
 Welcome to my Blog!
 
-You can learn more about me on my hopefully more up to date [website](carolin-brandt.de).
+You can learn more about me on my hopefully more up to date [website](https://carolin-brandt.de).
 
 [Email](mailto:hey@carolin-brandt.de)  
 [University Email](mailto:c.e.brandt@tudelft.nl)  

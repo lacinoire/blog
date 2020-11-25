@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Carolin Brandt
-title: "Brain Gym Workshop: focus & dealing with distractions"
+title: "Brain Gym: focus & dealing with distractions — Workshop Notes"
 ---
 
 This week TU Delft is participating in the Dutch "Week of Work Stress" by offering various workshops and activities for their employees to join. 🏫📝💃🏻  
@@ -9,7 +9,7 @@ The topics surround work-related stress 😬, work-life balance ⚖️ and relax
 Being a long term follower of the productivity fandom and being placed in much more stress and unmotivation through social distancing, I joined all of the interesting sounding workshops I could find time for 😄
 
 In this post I want to share my notes from the first workshop I joined: "Brain Gym: focus & dealing with distractions".   
-If you're interested, also check out my notes about ["How do you manage your eating behaviour in times of stress?"](tba) 😊
+If you're interested, also check out my notes about ["How do you manage your eating behaviour in times of stress?"](/eating-behaviour-stress-workshop) 😊
 
 Enjoy!
 
